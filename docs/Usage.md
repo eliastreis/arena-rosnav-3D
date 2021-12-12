@@ -4,7 +4,8 @@ Arena-rosnav-3D is structurally very similar to arena-rosnav to allow easy switc
 # Worlds
 We provide the following four worlds for your use: 
 |<img width="250" height="240" src="/img/aws_house-2.png">|<img width="250" height="240" src="/img/turtlebot3_house.png">|<img width="250" height="240" src="/img/small_warehouse-2.png">|<img width="250" height="240" src="/img/outside.png">|<img width="250" height="240" src="/img/factory.png">|<img width="250" height="240" src="/img/hospital.jpg">|
-|:--:       |              :--:|             :--:|          :--:|                  :--:|            :--:| 
+|:--:       |              :--:|             :--:|          :--:| 
+              :--:|            :--:| 
 | *aws_house* | *turtlebot3_house* | *small_warehouse* | *random world* | *factory* | *hospital* |
 
 ## Pre-build world
