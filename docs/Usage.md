@@ -16,7 +16,7 @@ We provide the following worlds for your use:
 
 ## Pre-build world
 
-To select one of our pre-build worlds, specify your scenario by selecting **aws_house**,  turtlebot3_house, small_warehouse, factory, hospital or experiment_rooms (2, 3, 4)*(bold is your default world)* in your startup file:
+To select one of our pre-build worlds, specify your scenario by selecting **aws_house**,  turtlebot3_house, small_warehouse,  experiment_rooms (2, 3, 4), factory or hospital *(bold is your default world)* in your startup file:
 ```bash
 roslaunch arena_bringup start_arena_gazebo.launch world:=turtlebot3_house
 ```
