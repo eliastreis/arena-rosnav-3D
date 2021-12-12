@@ -7,6 +7,12 @@ We provide the following four worlds for your use:
 |:--:       |              :--:|             :--:|          :--:|               :--:|            :--:|             :--:|              :--:| 
 | *aws_house* | *turtlebot3_house* | *small_warehouse* | *random world* | *factory* | *hospital* | *experiment_room_2* | *experiment_room_3* |
 
+<p float="left">
+  <img src="/img/hospital.jpg" width="100" />
+  <img src="/img/factory.png" width="100" /> 
+</p>
+
+
 ## Pre-build world
 
 To select one of our pre-build worlds, specify your scenario by selecting **aws_house**,  turtlebot3_house, small_warehouse *(bold is your default world)* in your startup file:
