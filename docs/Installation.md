@@ -130,9 +130,7 @@ pip3 install pyyaml catkin_pkg netifaces pathlib filelock pyqt5 mpi4py torch lxm
 cd $HOME
 mkdir -p catkin_ws/src && cd catkin_ws/src
 git clone https://github.com/eliastreis/arena-rosnav-3D.git 
-git clone https://bitbucket.org/acl-swarm/ford_msgs/src/master/
-cd ..
-catkin_make -DCMAKE_BUILD_TYPE=Release -DPYTHON_EXECUTABLE=/usr/bin/python3
+cd .. && catkin_make -DCMAKE_BUILD_TYPE=Release -DPYTHON_EXECUTABLE=/usr/bin/python3
 source devel/setup.bash
 ```
 
@@ -145,6 +143,7 @@ export PYTHONPATH=$HOME/catkin_ws/src/arena-rosnav-3D:${PYTHONPATH}" >> ~/.bashr
 ```
 
 > By now it would be advisable to check your python for your catkin_ws folder. Run `gedit ~/.bashrc` it should like this: 
+
 ```bash
 export PYTHONPATH=/home/usr/catkin_ws/src/arena-rosnav-3D:/home/usr/catkin_ws/devel/lib/python3/dist-packages:/opt/ros/noetic/lib/python3/dist-packages
 ```
