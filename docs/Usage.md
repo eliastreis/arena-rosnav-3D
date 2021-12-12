@@ -3,9 +3,10 @@ Arena-rosnav-3D is structurally very similar to arena-rosnav to allow easy switc
 
 # Worlds
 We provide the following four worlds for your use: 
-|<img width="250" height="240" src="/img/aws_house-2.png">|<img width="250" height="240" src="/img/turtlebot3_house.png">|<img width="250" height="240" src="/img/small_warehouse-2.png">|<img width="250" height="240" src="/img/outside.png">|
+|<img width="250" height="240" src="/img/aws_house-2.png">|<img width="250" height="240" src="/img/turtlebot3_house.png">|<img width="250" height="240" src="/img/small_warehouse-2.png">|<img width="250" height="240" src="/img/outside.png">|<img width="250" height="240" src="/img/factory.png">|<img width="250" height="240" src="/img/hospital.jpg">|<img width="250" height="240" src="/img/experiment_rooms.jpg">|<img width="250" height="240" src="/img/exp2.jpg">|<img width="250" height="240" src="/img/exp3.jpg">|<img width="250" height="240" src="/img/exp4.jpg">|
 |:--:       |              :--:|             :--:|          :--:| 
-| *aws_house* | *turtlebot3_house* | *small_warehouse* | *random world* |
+| *aws_house* | *turtlebot3_house* | *small_warehouse* | *random world* | *factory* | *hospital* | *experiment_room_2* | *experiment_room_3* | *experiment_room_4* | 
+
 ## Pre-build world
 
 To select one of our pre-build worlds, specify your scenario by selecting **aws_house**,  turtlebot3_house, small_warehouse *(bold is your default world)* in your startup file:
