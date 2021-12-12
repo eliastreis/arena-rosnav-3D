@@ -8,9 +8,9 @@ We provide the following four worlds for your use:
 | *aws_house* | *turtlebot3_house* | *small_warehouse* | *random world* | *factory* | *hospital* | *experiment_room_2* | *experiment_room_3* |
 
 <p float="left">
-  <img src="/img/hospital.jpg" width="300" />
+  <img src="/img/hospital.jpg" width="200" />
   <figcaption>Caption goes here</figcaption>
-  <img src="/img/factory.png" width="300" /> 
+  <img src="/img/factory.png" width="200" /> 
 </p>
 
 
