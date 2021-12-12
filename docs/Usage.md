@@ -3,11 +3,11 @@ Arena-rosnav-3D is structurally very similar to arena-rosnav to allow easy switc
 
 # Worlds
 We provide the following worlds for your use: 
-|<img width="150" height="140" src="/img/aws_house-2.png">|<img width="200" height="190" src="/img/turtlebot3_house.png">|<img width="200" height="190" src="/img/small_warehouse-2.png">|<img width="200" height="190" src="/img/outside.png">|
+|<img width="150" height="140" src="/img/aws_house-2.png">|<img width="150" height="140" src="/img/turtlebot3_house.png">|<img width="150" height="140" src="/img/small_warehouse-2.png">|<img width="150" height="140" src="/img/outside.png">|
 |:--:       |              :--:|             :--:|          :--:|
 | *aws_house* | *turtlebot3_house* | *small_warehouse* | *random world* |
 
-|<img width="200" height="190" src="/img/experiment_rooms.jpg">|<img width="200" height="190" src="/img/exp2.jpg">|<img width="200" height="190" src="/img/exp3.jpg">|<img width="200" height="190" src="/img/exp_4.jpg">|
+|<img width="150" height="140" src="/img/experiment_rooms.jpg">|<img width="150" height="140" src="/img/exp2.jpg">|<img width="150" height="140" src="/img/exp3.jpg">|<img width="150" height="140" src="/img/exp_4.jpg">|
 |:--:|            :--:|             :--:|              :--:| 
 | *experiment_rooms* | *experiment_room_2* | *experiment_room_3* | *experiment_room_4* |
 
