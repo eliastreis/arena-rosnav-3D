@@ -11,7 +11,7 @@ We provide the following four worlds for your use:
 |:--:|            :--:|             :--:|              :--:| 
 | *factory* | *hospital* | *experiment_rooms* |*experiment_room_2* | 
 
-|<img width="250" height="240" src="/img/exp3.jpg">|<img width="250" height="240" src="/img/exp4.jpg">|
+|<img width="250" height="240" src="/img/exp3.jpg">|<img width="250" height="240" src="/img/exp_4.jpg">|
 |:--:|      :--:| 
 |*experiment_room_3* |*experiment_room_4* |
 
