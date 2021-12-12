@@ -14,7 +14,7 @@ We provide the following four worlds for your use:
 |<img width="200" height="190" src="/img/factory.png">|<img width="200" height="190" src="/img/hospital.jpg">
 
 |:--:|      :--:| 
-| *factory* | *hospital* 
+| *factory* | *hospital*| 
 
 
 ## Pre-build world
